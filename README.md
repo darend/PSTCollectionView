@@ -1,6 +1,14 @@
 PSTCollectionView
 =================
 
+## Changes from Upstream
+
+- Fixes for XCode 6 
+- Bump version to 1.2.1
+- Renamed podspec as upstream is no longer maintained
+
+## Original
+
 UPDATE: I'm no longer using PSTCollectionView in any project, but will still accept pull requests for improvements.
 
 Open Source, 100% API compatible replacement of UICollectionView for iOS4.3+
